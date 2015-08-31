@@ -1,1 +1,0 @@
-http://developer.telerik.com/featured/scroll-event-change-ios-8-big-deal/
