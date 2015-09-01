@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>62BDE4BF-2CC7-4B1C-9769-56404365E959</string>
+	<key>IDESourceControlProjectName</key>
+	<string>parkParty</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>42980D3A959B2F16561599AA02E1E0CF64B1A055</key>
+		<string>github.com:kevincornelissen/parkParty.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/parkParty.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>42980D3A959B2F16561599AA02E1E0CF64B1A055</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kevincornelissen/parkParty.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>42980D3A959B2F16561599AA02E1E0CF64B1A055</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>42980D3A959B2F16561599AA02E1E0CF64B1A055</string>
+			<key>IDESourceControlWCCName</key>
+			<string>parkParty</string>
+		</dict>
+	</array>
+</dict>
+</plist>
