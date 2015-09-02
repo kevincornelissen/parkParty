@@ -12,7 +12,8 @@ body {
     -webkit-text-size-adjust: none;
     /* prevent copy paste, to allow, change 'none' to 'text' */
     -webkit-user-select: none;
-    background-color: #f0f0f0;
+    /*background-color: #f0f0f0;*/
+    background-color: #312783;
     background-attachment: fixed;
     font-family: 'Open Sans', sans-serif;
     font-size: 12px;
@@ -31,6 +32,8 @@ body {
     width: 100%;
     background-color: #312783;
     text-align: center;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
 h1 {
@@ -47,6 +50,8 @@ h1 {
     background-color: #312783;
     color: #FFF;
     text-align: center;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
 #navbar a {
